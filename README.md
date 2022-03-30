@@ -1,10 +1,13 @@
 <div align="center">
 
-
   # Hello, I'm Teayoung
   <br/>
-
+	
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Moro-yong&show_icons=true&theme=radical)
+	
+### currently learning
+Typescript, Next.js
+<br/><br/>
 
   <br/>
   
